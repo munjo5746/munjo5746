@@ -3,7 +3,7 @@
 ## Personal Info
 [Blog](https://munjo5746.github.io/)
 
-[LinkedIn](www.linkedin.com/in/munjo5746/)
+[LinkedIn](https://linkedin.com/in/munjo5746/)
 
 ## Projects
 ### Resize Image
