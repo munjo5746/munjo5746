@@ -1,8 +1,9 @@
 # Hi, I'm CS and math enthusiast!
 
 ## Personal Info
-    - [Blog](https://munjo5746.github.io/)
-    - [LinkedIn](www.linkedin.com/in/munjo5746/)
+[Blog](https://munjo5746.github.io/)
+
+[LinkedIn](www.linkedin.com/in/munjo5746/)
 
 ## Projects
 ### Resize Image
