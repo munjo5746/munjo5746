@@ -17,6 +17,7 @@
 - [Gitlab](https://gitlab.com/munjo5746/jobtracker)
 
 [Job Tracking Application](https://job-tracking.netlify.app) automates some of your job applying processes (make a record, take a screenshot from job description site).
+![Job Tracking Application](assets/jta.gif)
 ### Resume Builder
 
 - [Gitlab](https://gitlab.com/munjo5746/ressume-builder)
