@@ -8,7 +8,7 @@
 
 ### Nucleus
 
-[Nucleus](https://nucleus-git-develop-edward-chungs-projects.vercel.app/) is a calendar web app to manage events and see stats. Currently, there are 80+ active users using this app primarily for clibming events.
+[Nucleus](https://nucleus-git-develop-edward-chungs-projects.vercel.app/) is a calendar PWA to manage events and see stats. Currently, there are 80+ active users using this app primarily for clibming events.
 
 ![Nucleus](assets/nucleus.gif)
 
