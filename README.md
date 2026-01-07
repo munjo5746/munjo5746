@@ -12,11 +12,20 @@
 
 ![Nucleus](assets/nucleus.gif)
 
+#### Updates - 2026/01/07
+
+The app has grown to 200+ users and the UI has been updated for better usability.
+![Nucleus](assets/nucleus_2026.gif)
+
+---
+
 ### Resize Image
 
 - [Gitlab](https://gitlab.com/munjo5746/resimg)
 
 [Resize Image](https://resimg.netlify.app/) is a web app that let's you resize your image. Built with React and Web assembly.
+
+---
 
 ### Job Tracking Application
 
@@ -24,6 +33,8 @@
 
 [Job Tracking Application](https://job-tracking.netlify.app) automates some of your job applying processes (make a record, take a screenshot from job description site).
 ![Job Tracking Application](assets/jta.gif)
+
+---
 
 ### Resume Builder
 
